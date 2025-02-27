@@ -69,7 +69,6 @@ bash
 Copy code
 docker build -t your-backend-image .
 Push Images to AWS ECR:
-
 Authenticate with ECR:
 bash
 Copy code
